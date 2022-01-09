@@ -139,10 +139,10 @@ header ul li a{
     max-width: 60px;
 }
 
-/*.sci:hover{
-    transform: translateX(-15px);
+.sci li:hover img{
+    transform: translateX(-150px);
     transition: 0.5s;
-}*/
+}
 
 .sci{
     position: absolute;
